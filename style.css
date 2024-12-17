@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Read{
+    font-size:40px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 37px;
+
+
+}
+#images{
+    padding-left: 55px;
+    padding-bottom: 12px;
+}
+#Stary{
+   color: #000;
+   font-size: 40px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   padding-left:140px;
+   padding-bottom:16px;
+}
+#Look{
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 10;
+    line-height: 24px; 
+    height: 46px;
+    padding-left:40px ;
+    width: 600px;
+
+}
